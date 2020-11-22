@@ -20,4 +20,4 @@ I am not to be held responsible if you get into trouble with the [GitHub TOS] ov
 
 [dev.to blog post]: https://dev.to/harshhhdev/guide-to-web-scraping-with-node-1kpe
 [GitHub TOS]: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-terms-of-service
-[GitHub Api]: https://api.github.com/users/harshhhdev
+[GitHub Api]: https://api.github.com/
